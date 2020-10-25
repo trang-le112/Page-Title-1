@@ -1,0 +1,108 @@
+img{
+    height: 310px;
+    height:300px;
+    
+    
+}
+
+h1{
+    
+    font-size:100px;
+    font-family: 'Calistoga', cursive;
+    font-family: 'Merienda One', cursive;
+    font-family: 'Fredericka the Great', cursive;
+}
+body{
+    
+    background-color: lavender;
+    text-align: center;
+    font-family: 'Tangerine', cursive;
+    font-family: 'Playball', cursive;
+    background-image: url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/PDaTSuJ/videoblocks-particles-gold-bokeh-glitter-awards-dust-abstract-background-loop_b3mdj_xu9n_thumbnail-small01.jpg);
+    
+}
+p{
+    font-size: 55px;
+    color:blue;
+}
+.movie{
+    color:green;
+    font-size: 70px;
+}
+.game{
+    color:purple;
+}
+.artists{
+    color:pink;
+}
+.best{
+    color:red;
+}
+.awards{
+    color: lime;
+}
+.movie{
+    color: teal;
+    font-family: 'Satisfy', cursive;
+font-family: 'Sail', cursive;
+}
+.musicians{
+    font-size: 100px;
+    font-family: 'Satisfy', cursive;
+    color: magenta;
+}
+.game{
+    color: limegreen;
+    font-family: 'Acme', sans-serif;
+    font-size: 70px;
+}
+.best{
+    font-family: 'Dancing Script', cursive;
+   
+}
+.casi{
+    font-family: 'Kalam', cursive;
+    font-family: 'Vidaloka', serif;
+    text-decoration: underline;
+    color: violet;
+    
+    
+}
+.phim{
+font-family: 'Libre Baskerville', serif;
+text-decoration: underline;
+color: tomato;
+}
+.trochoi{
+    font-family: 'Abril Fatface', cursive;
+    text-decoration: underline;
+    color: aqua;
+}
+.dienvien{
+    font-family: 'Vidaloka', serif;
+    font-size: 25px;
+    color: rosybrown;
+}
+.ten{
+    color: oldlace;
+    font-size: 25px;
+    
+}
+.winner{
+     font-family: 'Vidaloka', serif;
+     color: dimgray;
+     font-size: 25px;
+     
+}
+.me{
+    text-decoration: underline;
+    color: salmon;
+}
+
+
+    
+
+
+
+
+
